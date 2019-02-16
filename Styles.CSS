@@ -1,0 +1,77 @@
+body{margin: 0;
+text-align: center;
+font-family: 'Abel', sans-serif;}
+h1{margin: 50px auto 0 auto;
+font-family: 'Indie Flower', cursive;
+font-size: 5.625rem;
+color:#69779b;}
+
+h2{font-family: 'Cabin', sans-serif;
+font-size: 2.5rem;
+color:#69779b;
+font-weight: normal;}
+
+h3{font-family: 'Cabin', sans-serif;
+font-size: 1.5rem;
+color: #acdbdf;}
+
+.top-container{
+  background-color:#d7eaea;
+position: relative;
+padding-top: 100px}
+
+.middle-container{padding-bottom: 50px;}
+
+.bottom-container{background-color:#d7eaea;
+padding: 40px 0 20px;
+color:#69779b;}
+
+.top-cloud{position: absolute;
+  right: 300px;
+  top: 50px}
+
+.bottom-cloud{position: absolute;
+left: 300px;
+bottom:50px;}
+
+.skill-row{width: 50%;
+margin: 100px auto 100px auto;
+line-height: 2;}
+
+.Camera{width: 25%;
+float: left;
+margin-right: 30px;}
+
+.Computer{width: 25%;
+float: right;
+margin-left: 30px;}
+
+hr{border: dotted 6px;
+color:#acdbdf;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;}
+
+.contact-info{margin: 50px auto 60px}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Cabin', sans-serif;
+  color: #acdbdf;
+  font-size: 28px;
+  background: #9692af;
+  padding: 10px 20px 10px 20px;
+  border: solid #d7eaea 9px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+a{font-family: 'Cabin', sans-serif;
+text-decoration: none;}
+
+a:hover{color: white;}
